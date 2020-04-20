@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Aawanogawaの小屋</title>
+  <title>Awanogawaの小屋</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://awanogawa.github.io/"/>
-  <updated>2020-04-09T05:05:09.243Z</updated>
+  <updated>2020-04-20T07:06:13.740Z</updated>
   <id>https://awanogawa.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>咸鱼的osu!记录</title>
-    <link href="https://awanogawa.github.io/2020/04/08/xian-yu-de-osu-ji-lu/"/>
-    <id>https://awanogawa.github.io/2020/04/08/xian-yu-de-osu-ji-lu/</id>
-    <published>2020-04-07T16:00:00.000Z</published>
-    <updated>2020-04-09T05:05:09.243Z</updated>
+    <title>22/7角色PV &amp; 角色绘</title>
+    <link href="https://awanogawa.github.io/2020/04/14/22-7-jiao-se-pv-jiao-se-hui/"/>
+    <id>https://awanogawa.github.io/2020/04/14/22-7-jiao-se-pv-jiao-se-hui/</id>
+    <published>2020-04-14T02:22:12.846Z</published>
+    <updated>2020-04-20T07:06:13.740Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,34 @@
       
         
         
-          &lt;h4 id=&quot;4-09&quot;&gt;&lt;a href=&quot;#4-09&quot; class=&quot;headerlink&quot; title=&quot;4.09&quot;&gt;&lt;/a&gt;4.09&lt;/h4&gt;&lt;p&gt;练习中…&lt;br&gt;&lt;a href=&quot;https://imgchr.com/i/G4BYgP&quot; target=&quot;_blank&quot;
+          &lt;h2 id=&quot;那一天的她们-角色PV&quot;&gt;&lt;a href=&quot;#那一天的她们-角色PV&quot; class=&quot;headerlink&quot; title=&quot;[那一天的她们] 角色PV&quot;&gt;&lt;/a&gt;[那一天的她们] 角色PV&lt;/h2&gt;&lt;p&gt;视频来源B站，227中文应援站&lt;/p&gt;
+&lt;h3
+        
+      
+    
+    </summary>
+    
+      <category term="记录" scheme="https://awanogawa.github.io/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="22/7" scheme="https://awanogawa.github.io/tags/22-7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《narcissu》序章</title>
+    <link href="https://awanogawa.github.io/2020/04/11/narcissu-xu-zhang/"/>
+    <id>https://awanogawa.github.io/2020/04/11/narcissu-xu-zhang/</id>
+    <published>2020-04-11T13:13:01.367Z</published>
+    <updated>2020-04-14T05:34:58.869Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;序章&quot;&gt;&lt;a href=&quot;#序章&quot; class=&quot;headerlink&quot;
         
       
     
@@ -38,7 +65,13 @@
       <category term="随笔" scheme="https://awanogawa.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="osu" scheme="https://awanogawa.github.io/tags/osu/"/>
+      <category term="narcissu" scheme="https://awanogawa.github.io/tags/narcissu/"/>
+    
+      <category term="原文本" scheme="https://awanogawa.github.io/tags/%E5%8E%9F%E6%96%87%E6%9C%AC/"/>
+    
+      <category term="感想" scheme="https://awanogawa.github.io/tags/%E6%84%9F%E6%83%B3/"/>
+    
+      <category term="AVG" scheme="https://awanogawa.github.io/tags/AVG/"/>
     
   </entry>
   
@@ -47,7 +80,7 @@
     <link href="https://awanogawa.github.io/2020/04/06/gei-tian-nochuan-sha-ye-de-qing-shu/"/>
     <id>https://awanogawa.github.io/2020/04/06/gei-tian-nochuan-sha-ye-de-qing-shu/</id>
     <published>2020-04-05T16:00:00.000Z</published>
-    <updated>2020-04-11T03:20:40.598Z</updated>
+    <updated>2020-04-20T07:00:00.921Z</updated>
     
     <summary type="html">
     
@@ -55,7 +88,7 @@
       
         
         
-          &lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/shw2018/cdn@1.0/sakura/img/loader/orange.progress-bar-stripe-loader.svg&quot;
+          &lt;div align=&quot;middle&quot;&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;
         
       
     
@@ -77,7 +110,7 @@
     <link href="https://awanogawa.github.io/2020/03/09/ping-zhong-bai-he-long-zhong-qiu-niao-guan-yu-mei-shao-nu-wan-hua-jing-4-zui-yu-fa-de-shao-nu-zhong-shi-ge-de-qian-xi/"/>
     <id>https://awanogawa.github.io/2020/03/09/ping-zhong-bai-he-long-zhong-qiu-niao-guan-yu-mei-shao-nu-wan-hua-jing-4-zui-yu-fa-de-shao-nu-zhong-shi-ge-de-qian-xi/</id>
     <published>2020-03-09T04:00:00.000Z</published>
-    <updated>2020-04-11T03:09:40.319Z</updated>
+    <updated>2020-04-15T01:42:05.116Z</updated>
     
     <summary type="html">
     
@@ -108,7 +141,7 @@
     <link href="https://awanogawa.github.io/2020/02/15/cong-qing-lang-de-zhao-se-fan-qi-zhi-ji-kai-shi/"/>
     <id>https://awanogawa.github.io/2020/02/15/cong-qing-lang-de-zhao-se-fan-qi-zhi-ji-kai-shi/</id>
     <published>2020-02-15T04:00:00.000Z</published>
-    <updated>2020-04-11T03:08:48.291Z</updated>
+    <updated>2020-04-15T01:37:56.225Z</updated>
     
     <summary type="html">
     
@@ -116,9 +149,7 @@
       
         
         
-          &lt;p&gt;先给出我自己的评价：良作以上，佳作以下。一定程度上的电波作。&lt;/p&gt;
-&lt;p&gt;音乐质量相当优秀，作曲基本由樋口秀樹担任，歌曲古色古香，悠长深远。&lt;/p&gt;
-&lt;p&gt;脚本内容由朱门优负责。朱门优，老文青了，喜欢在脚本中卖弄自己的小知识、写排比，喜欢埋伏笔、做暗示（有的很明显，事件发
+          &lt;div align=&quot;middle&quot;&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;298&quot; height=&quot;52&quot;
         
       
     
