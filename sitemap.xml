@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://awanogawa.github.io/2020/04/20/guan-yu-wo-zuo-de-te-xiao-zi-mu-de-si-lu/</loc>
+    <loc>https://awanogawa.github.io/2020/04/01/ru-men-xu-zhi/</loc>
     
-    <lastmod>2020-05-08T06:18:56.626Z</lastmod>
+    <lastmod>2020-05-08T06:23:14.745Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://awanogawa.github.io/2020/04/01/ru-men-xu-zhi/</loc>
+    <loc>https://awanogawa.github.io/2020/04/20/guan-yu-wo-zuo-de-te-xiao-zi-mu-de-si-lu/</loc>
     
-    <lastmod>2020-04-27T03:36:10.526Z</lastmod>
+    <lastmod>2020-05-08T06:18:56.626Z</lastmod>
     
   </url>
   
@@ -26,13 +26,6 @@
     <loc>https://awanogawa.github.io/2020/04/13/narcissu-chapter-1-7f/</loc>
     
     <lastmod>2020-04-23T09:55:22.601Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://awanogawa.github.io/2020/04/06/gei-tian-nochuan-sha-ye-de-qing-shu/</loc>
-    
-    <lastmod>2020-04-20T07:00:00.921Z</lastmod>
     
   </url>
   
@@ -86,13 +79,6 @@
   </url>
   
   <url>
-    <loc>https://awanogawa.github.io/categories/index.html</loc>
-    
-    <lastmod>2019-10-04T03:57:55.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://awanogawa.github.io/archives/index.html</loc>
     
     <lastmod>2019-10-04T03:57:55.000Z</lastmod>
@@ -100,7 +86,7 @@
   </url>
   
   <url>
-    <loc>https://awanogawa.github.io/galleries/index.html</loc>
+    <loc>https://awanogawa.github.io/categories/index.html</loc>
     
     <lastmod>2019-10-04T03:57:55.000Z</lastmod>
     
@@ -121,7 +107,7 @@
   </url>
   
   <url>
-    <loc>https://awanogawa.github.io/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%874/index.html</loc>
+    <loc>https://awanogawa.github.io/galleries/index.html</loc>
     
     <lastmod>2019-10-04T03:57:55.000Z</lastmod>
     
@@ -129,6 +115,13 @@
   
   <url>
     <loc>https://awanogawa.github.io/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%873/index.html</loc>
+    
+    <lastmod>2019-10-04T03:57:55.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://awanogawa.github.io/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%874/index.html</loc>
     
     <lastmod>2019-10-04T03:57:55.000Z</lastmod>
     

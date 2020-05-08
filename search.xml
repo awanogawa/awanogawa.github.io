@@ -114,40 +114,11 @@
     
     
     <entry>
-      <title>给天ノ川沙夜的情书</title>
-      <link href="/2020/04/06/gei-tian-nochuan-sha-ye-de-qing-shu/"/>
-      <url>/2020/04/06/gei-tian-nochuan-sha-ye-de-qing-shu/</url>
-      
-        <content type="html"><![CDATA[<div align="middle"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=415904761&amp;auto=1&amp;height=66"></iframe></div><p><img src="https://cdn.jsdelivr.net/gh/shw2018/cdn@1.0/sakura/img/loader/orange.progress-bar-stripe-loader.svg" data-original="https://s1.ax1x.com/2020/04/08/GWRO61.png" alt=""></p><hr><p><img src="https://cdn.jsdelivr.net/gh/shw2018/cdn@1.0/sakura/img/loader/orange.progress-bar-stripe-loader.svg" data-original="https://s1.ax1x.com/2020/04/08/GWRXOx.png" alt=""></p><p><img src="https://cdn.jsdelivr.net/gh/shw2018/cdn@1.0/sakura/img/loader/orange.progress-bar-stripe-loader.svg" data-original="https://s1.ax1x.com/2020/04/08/GWRyFg.png" alt=""></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      <categories>
-          
-          <category> 随笔 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> gal </tag>
-            
-            <tag> 見上げてごらん、夜空の星を </tag>
-            
-            <tag> pulltop </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于这个网站存在的理由</title>
       <link href="/2020/04/01/ru-men-xu-zhi/"/>
       <url>/2020/04/01/ru-men-xu-zhi/</url>
       
-        <content type="html"><![CDATA[<p>这里是我为了表达自己而制作的。</p><p>这里的一切都是相当真实的我的存在。</p><p>如果你能从这里看到真实的我的一面，那么非常感谢。</p><p>如果你进入到了这里，<del>很抱歉以这种方式认识我</del>，有一些事希望你能知道，如果能接受并遵守就更好不过了。</p><ol><li><p>这里所有的文章，有的是我自己写的，有的是部分转载别人的，但凡是转载的我都有标明出处。但禁止除我以外的任何人以任何方式对其中我原创的部分进行二次加工、转载等行为，毕竟我发到这里就不是为了让别人看到。</p></li><li><p>占大篇幅的会是各种视觉小说、AVG的感想，具有相当程度的主观解读、过度解读、歪曲原意等，只建议在对相关作品有着自己的理解之后再看，也欢迎交流与指正，但禁止ky、胡搅蛮缠等。</p></li><li><p>部分文章出于我<del>廉价</del>的羞耻心有设置密码，不公开。</p></li></ol><p>总结来说就是，这里本就是为我自己而做的，来者仅是过客，而非朋友。在这之外也欢迎和我进行交流。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<p>这里是我为了表达自己而制作的。</p><p>这里的一切都是相当真实的我的存在。</p><p>如果你能从这里看到真实的我的一面，那么非常感谢。</p><p>如果你进入到了这里，<del>很抱歉以这种方式认识我</del>，有一些事希望你能知道，如果能接受并遵守就更好不过了。</p><ol><li><p>这里所有的文章，有的是我自己写的，有的是部分转载别人的，但凡是转载的我都有标明出处。但禁止转载、截图等行为。</p></li><li><p>占大篇幅的会是各种视觉小说、AVG的感想，具有相当程度的主观解读、过度解读、歪曲原意等，只建议在对相关作品有着自己的理解之后再看，也欢迎交流与指正。</p></li><li><p>部分文章出于我<del>廉价</del>的羞耻心有设置密码，不公开。</p></li></ol><p>总结来说就是，这里本就是为我自己而做的，来者仅是过客，而非朋友。在这之外也欢迎和我进行交流。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       
