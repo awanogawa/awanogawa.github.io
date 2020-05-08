@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Awanogawaの小屋</title>
+  <title>天河の小屋</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://awanogawa.github.io/"/>
-  <updated>2020-04-23T01:13:27.429Z</updated>
+  <updated>2020-05-08T06:18:56.626Z</updated>
   <id>https://awanogawa.github.io/</id>
   
   <author>
@@ -17,36 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>关于这个网站存在的理由</title>
-    <link href="https://awanogawa.github.io/2020/04/21/ru-men-xu-zhi/"/>
-    <id>https://awanogawa.github.io/2020/04/21/ru-men-xu-zhi/</id>
-    <published>2020-04-21T01:48:00.253Z</published>
-    <updated>2020-04-23T01:13:27.429Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;这里是我为了表达自己而制作的。&lt;/p&gt;
-&lt;p&gt;这里的一切都是相当真实的我的存在。&lt;/p&gt;
-&lt;p&gt;如果你能从这里看到真实的我的一面，那么非常感谢。&lt;/p&gt;
-&lt;p&gt;如果你进入到了这里，&lt;del&gt;很抱歉以这种方式认识我&lt;/del&gt;，有一些事希望你能知道，如果能接受并遵守就更好不过
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>关于我做的特效字幕的思路</title>
     <link href="https://awanogawa.github.io/2020/04/20/guan-yu-wo-zuo-de-te-xiao-zi-mu-de-si-lu/"/>
     <id>https://awanogawa.github.io/2020/04/20/guan-yu-wo-zuo-de-te-xiao-zi-mu-de-si-lu/</id>
     <published>2020-04-20T06:15:20.908Z</published>
-    <updated>2020-04-23T01:12:21.981Z</updated>
+    <updated>2020-05-08T06:18:56.626Z</updated>
     
     <summary type="html">
     
@@ -183,6 +158,31 @@
       <category term="見上げてごらん、夜空の星を" scheme="https://awanogawa.github.io/tags/%E8%A6%8B%E4%B8%8A%E3%81%92%E3%81%A6%E3%81%94%E3%82%89%E3%82%93%E3%80%81%E5%A4%9C%E7%A9%BA%E3%81%AE%E6%98%9F%E3%82%92/"/>
     
       <category term="pulltop" scheme="https://awanogawa.github.io/tags/pulltop/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于这个网站存在的理由</title>
+    <link href="https://awanogawa.github.io/2020/04/01/ru-men-xu-zhi/"/>
+    <id>https://awanogawa.github.io/2020/04/01/ru-men-xu-zhi/</id>
+    <published>2020-03-31T16:00:00.000Z</published>
+    <updated>2020-04-27T03:36:10.526Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;这里是我为了表达自己而制作的。&lt;/p&gt;
+&lt;p&gt;这里的一切都是相当真实的我的存在。&lt;/p&gt;
+&lt;p&gt;如果你能从这里看到真实的我的一面，那么非常感谢。&lt;/p&gt;
+&lt;p&gt;如果你进入到了这里，&lt;del&gt;很抱歉以这种方式认识我&lt;/del&gt;，有一些事希望你能知道，如果能接受并遵守就更好不过
+        
+      
+    
+    </summary>
+    
     
   </entry>
   
