@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://awanogawa.github.io/2020/04/13/narcissu-chapter-1-7f/</loc>
+    <loc>https://awanogawa.github.io/2020/04/11/narcissu-xu-zhang/</loc>
     
-    <lastmod>2020-05-19T04:27:01.115Z</lastmod>
+    <lastmod>2020-05-22T01:29:37.303Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://awanogawa.github.io/2020/04/11/narcissu-xu-zhang/</loc>
+    <loc>https://awanogawa.github.io/2020/04/23/narcissu-chapter-2-yin-se-de-ku-pai/</loc>
     
-    <lastmod>2020-05-19T04:26:50.662Z</lastmod>
+    <lastmod>2020-05-22T01:22:55.622Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://awanogawa.github.io/2020/04/13/narcissu-chapter-1-7f/</loc>
+    
+    <lastmod>2020-05-20T13:32:13.662Z</lastmod>
     
   </url>
   
@@ -93,13 +100,6 @@
   </url>
   
   <url>
-    <loc>https://awanogawa.github.io/archives/index.html</loc>
-    
-    <lastmod>2019-10-04T03:57:55.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://awanogawa.github.io/categories/index.html</loc>
     
     <lastmod>2019-10-04T03:57:55.000Z</lastmod>
@@ -107,7 +107,7 @@
   </url>
   
   <url>
-    <loc>https://awanogawa.github.io/galleries/index.html</loc>
+    <loc>https://awanogawa.github.io/archives/index.html</loc>
     
     <lastmod>2019-10-04T03:57:55.000Z</lastmod>
     
@@ -115,6 +115,13 @@
   
   <url>
     <loc>https://awanogawa.github.io/friends/index.html</loc>
+    
+    <lastmod>2019-10-04T03:57:55.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://awanogawa.github.io/galleries/index.html</loc>
     
     <lastmod>2019-10-04T03:57:55.000Z</lastmod>
     
