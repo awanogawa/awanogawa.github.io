@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://awanogawa.github.io/"/>
-  <updated>2020-05-22T01:34:37.287Z</updated>
+  <updated>2020-06-12T04:58:55.311Z</updated>
   <id>https://awanogawa.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>云安全中的密码技术</title>
+    <link href="https://awanogawa.github.io/2020/06/12/yun-an-quan-zhong-de-mi-ma-ji-zhu/"/>
+    <id>https://awanogawa.github.io/2020/06/12/yun-an-quan-zhong-de-mi-ma-ji-zhu/</id>
+    <published>2020-06-12T04:40:20.871Z</published>
+    <updated>2020-06-12T04:58:55.311Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;摘要：初步介绍云存储所存在的安全问题，然后就现阶段是如何解决这些问题所用到的技术，如ABE/PDP/POR进行介绍。ABE将从两个重要分类KP-ABE及CP-ABE，以及它的隐藏访问结构介绍。PDP与POR则是简单介绍它的发展历程与未来的发展方向。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;
+        
+      
+    
+    </summary>
+    
+      <category term="记录" scheme="https://awanogawa.github.io/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>《narcissu》Chapter 2 银色的酷派</title>
