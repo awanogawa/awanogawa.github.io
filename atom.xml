@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Sayaのか</title>
+  <title>离岛</title>
   
   
   <link href="/atom.xml" rel="self"/>
@@ -70,6 +70,36 @@
       <category term="感想" scheme="https://awanogawa.github.io/tags/%E6%84%9F%E6%83%B3/"/>
     
       <category term="AVG" scheme="https://awanogawa.github.io/tags/AVG/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《时钟机关的ley-line》简评</title>
+    <link href="https://awanogawa.github.io/2020/05/18/shi-ji/"/>
+    <id>https://awanogawa.github.io/2020/05/18/shi-ji/</id>
+    <published>2020-05-18T12:23:07.106Z</published>
+    <updated>2020-07-09T05:06:38.766Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;2020-5-18&quot;&gt;&lt;a href=&quot;#2020-5-18&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://awanogawa.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="gal" scheme="https://awanogawa.github.io/tags/gal/"/>
+    
+      <category term="游戏推荐" scheme="https://awanogawa.github.io/tags/%E6%B8%B8%E6%88%8F%E6%8E%A8%E8%8D%90/"/>
+    
+      <category term="blossom unisonshift" scheme="https://awanogawa.github.io/tags/blossom-unisonshift/"/>
     
   </entry>
   
