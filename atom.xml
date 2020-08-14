@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://awanogawa.github.io/"/>
-  <updated>2020-07-17T05:53:58.421Z</updated>
+  <updated>2020-08-14T07:43:11.410Z</updated>
   <id>https://awanogawa.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Leetcode笔记 Part1</title>
+    <link href="https://awanogawa.github.io/2020/08/14/leetcode-bi-ji-part1/"/>
+    <id>https://awanogawa.github.io/2020/08/14/leetcode-bi-ji-part1/</id>
+    <published>2020-08-14T07:18:25.218Z</published>
+    <updated>2020-08-14T07:43:11.410Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;对Leetcode里的题做个记录。比较简单的就不写分析了。&lt;/p&gt;
+&lt;h2 id=&quot;1-两数之和-Tag：数组-哈希表&quot;&gt;&lt;a href=&quot;#1-两数之和-Tag：数组-哈希表&quot; class=&quot;headerlink&quot; title=&quot;1.两数之和 Tag：数组 哈希表&quot;&gt;&lt;/a&gt;1.两数之和 Tag：数组
+        
+      
+    
+    </summary>
+    
+      <category term="笔记" scheme="https://awanogawa.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="leetcode" scheme="https://awanogawa.github.io/tags/leetcode/"/>
+    
+      <category term="算法" scheme="https://awanogawa.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title>一个人</title>
@@ -46,10 +75,10 @@
   
   <entry>
     <title>《地狱少女》第一季随笔</title>
-    <link href="https://awanogawa.github.io/2020/07/14/di-yu-shao-nu-xi-lie/"/>
-    <id>https://awanogawa.github.io/2020/07/14/di-yu-shao-nu-xi-lie/</id>
+    <link href="https://awanogawa.github.io/2020/07/14/di-yu-shao-nu-di-yi-ji-sui-xie/"/>
+    <id>https://awanogawa.github.io/2020/07/14/di-yu-shao-nu-di-yi-ji-sui-xie/</id>
     <published>2020-07-14T04:56:09.418Z</published>
-    <updated>2020-07-27T06:00:21.144Z</updated>
+    <updated>2020-08-14T07:55:48.163Z</updated>
     
     <summary type="html">
     
@@ -105,7 +134,7 @@
     <link href="https://awanogawa.github.io/2020/05/22/narcissu-chapter-2-yin-se-de-ku-pai/"/>
     <id>https://awanogawa.github.io/2020/05/22/narcissu-chapter-2-yin-se-de-ku-pai/</id>
     <published>2020-05-22T01:21:00.000Z</published>
-    <updated>2020-06-22T10:30:24.173Z</updated>
+    <updated>2020-08-14T07:52:43.020Z</updated>
     
     <summary type="html">
     
@@ -190,6 +219,38 @@
     
     
       <category term="梦" scheme="https://awanogawa.github.io/tags/%E6%A2%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《narcissu》Chapter 3 地图</title>
+    <link href="https://awanogawa.github.io/2020/05/08/narcissu-chapter-3-di-tu/"/>
+    <id>https://awanogawa.github.io/2020/05/08/narcissu-chapter-3-di-tu/</id>
+    <published>2020-05-08T12:13:32.213Z</published>
+    <updated>2020-08-14T07:54:57.740Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Chapter-3-地图&quot;&gt;&lt;a href=&quot;#Chapter-3-地图&quot; class=&quot;headerlink&quot; title=&quot;Chapter 3　地图&quot;&gt;&lt;/a&gt;Chapter
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://awanogawa.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="narcissu" scheme="https://awanogawa.github.io/tags/narcissu/"/>
+    
+      <category term="原文本" scheme="https://awanogawa.github.io/tags/%E5%8E%9F%E6%96%87%E6%9C%AC/"/>
+    
+      <category term="感想" scheme="https://awanogawa.github.io/tags/%E6%84%9F%E6%83%B3/"/>
+    
+      <category term="AVG" scheme="https://awanogawa.github.io/tags/AVG/"/>
     
   </entry>
   
