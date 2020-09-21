@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://awanogawa.github.io/2020/07/14/di-yu-shao-nu-di-yi-ji-sui-xie/</loc>
+    <loc>https://awanogawa.github.io/2020/09/01/cs231n-bi-ji/</loc>
     
-    <lastmod>2020-08-14T07:55:48.163Z</lastmod>
+    <lastmod>2020-09-21T15:04:11.773Z</lastmod>
     
   </url>
   
@@ -19,13 +19,6 @@
     <loc>https://awanogawa.github.io/2020/05/22/narcissu-chapter-2-yin-se-de-ku-pai/</loc>
     
     <lastmod>2020-08-14T07:52:43.020Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://awanogawa.github.io/2020/08/14/leetcode-bi-ji-part1/</loc>
-    
-    <lastmod>2020-08-14T07:43:11.410Z</lastmod>
     
   </url>
   
@@ -156,6 +149,13 @@
   </url>
   
   <url>
+    <loc>https://awanogawa.github.io/galleries/index.html</loc>
+    
+    <lastmod>2019-10-04T03:57:55.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://awanogawa.github.io/friends/index.html</loc>
     
     <lastmod>2019-10-04T03:57:55.000Z</lastmod>
@@ -170,7 +170,7 @@
   </url>
   
   <url>
-    <loc>https://awanogawa.github.io/galleries/index.html</loc>
+    <loc>https://awanogawa.github.io/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%874/index.html</loc>
     
     <lastmod>2019-10-04T03:57:55.000Z</lastmod>
     
@@ -178,13 +178,6 @@
   
   <url>
     <loc>https://awanogawa.github.io/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%873/index.html</loc>
-    
-    <lastmod>2019-10-04T03:57:55.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://awanogawa.github.io/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%874/index.html</loc>
     
     <lastmod>2019-10-04T03:57:55.000Z</lastmod>
     

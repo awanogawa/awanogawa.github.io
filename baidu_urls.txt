@@ -1,6 +1,5 @@
-https://awanogawa.github.io/2020/08/14/leetcode-bi-ji-part1/
+https://awanogawa.github.io/2020/09/01/cs231n-bi-ji/
 https://awanogawa.github.io/2020/07/16/yi-ge-ren/
-https://awanogawa.github.io/2020/07/14/di-yu-shao-nu-di-yi-ji-sui-xie/
 https://awanogawa.github.io/2020/06/12/yun-an-quan-zhong-de-mi-ma-ji-zhu/
 https://awanogawa.github.io/2020/05/22/narcissu-chapter-2-yin-se-de-ku-pai/
 https://awanogawa.github.io/2020/05/18/shi-ji/

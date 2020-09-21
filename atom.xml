@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://awanogawa.github.io/"/>
-  <updated>2020-08-14T07:43:11.410Z</updated>
+  <updated>2020-09-21T15:04:11.773Z</updated>
   <id>https://awanogawa.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Leetcode笔记 Part1</title>
-    <link href="https://awanogawa.github.io/2020/08/14/leetcode-bi-ji-part1/"/>
-    <id>https://awanogawa.github.io/2020/08/14/leetcode-bi-ji-part1/</id>
-    <published>2020-08-14T07:18:25.218Z</published>
-    <updated>2020-08-14T07:43:11.410Z</updated>
+    <title></title>
+    <link href="https://awanogawa.github.io/2020/09/01/cs231n-bi-ji/"/>
+    <id>https://awanogawa.github.io/2020/09/01/cs231n-bi-ji/</id>
+    <published>2020-09-01T15:35:06.417Z</published>
+    <updated>2020-09-21T15:04:11.773Z</updated>
     
     <summary type="html">
     
@@ -29,8 +29,8 @@
       
         
         
-          &lt;p&gt;对Leetcode里的题做个记录。比较简单的就不写分析了。&lt;/p&gt;
-&lt;h2 id=&quot;1-两数之和-Tag：数组-哈希表&quot;&gt;&lt;a href=&quot;#1-两数之和-Tag：数组-哈希表&quot; class=&quot;headerlink&quot; title=&quot;1.两数之和 Tag：数组 哈希表&quot;&gt;&lt;/a&gt;1.两数之和 Tag：数组
+          &lt;p&gt;整理在学习cs231n课程中做的笔记以及一些看到的资料。&lt;/p&gt;
+&lt;h3 id=&quot;Lecture2&quot;&gt;&lt;a href=&quot;#Lecture2&quot; class=&quot;headerlink&quot; title=&quot;Lecture2&quot;&gt;&lt;/a&gt;Lecture2&lt;/h3&gt;&lt;p&gt;&lt;img
         
       
     
@@ -39,9 +39,7 @@
       <category term="笔记" scheme="https://awanogawa.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="leetcode" scheme="https://awanogawa.github.io/tags/leetcode/"/>
-    
-      <category term="算法" scheme="https://awanogawa.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="cv" scheme="https://awanogawa.github.io/tags/cv/"/>
     
   </entry>
   
@@ -70,37 +68,6 @@
       <category term="22/7" scheme="https://awanogawa.github.io/tags/22-7/"/>
     
       <category term="意义不明" scheme="https://awanogawa.github.io/tags/%E6%84%8F%E4%B9%89%E4%B8%8D%E6%98%8E/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>《地狱少女》第一季随笔</title>
-    <link href="https://awanogawa.github.io/2020/07/14/di-yu-shao-nu-di-yi-ji-sui-xie/"/>
-    <id>https://awanogawa.github.io/2020/07/14/di-yu-shao-nu-di-yi-ji-sui-xie/</id>
-    <published>2020-07-14T04:56:09.418Z</published>
-    <updated>2020-08-14T07:55:48.163Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;四季的开场独白&quot;&gt;&lt;a href=&quot;#四季的开场独白&quot; class=&quot;headerlink&quot; title=&quot;四季的开场独白&quot;&gt;&lt;/a&gt;四季的开场独白&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;人の世は、「縁」と申します。 結んだ糸が絡みつき、脆く哀れな彼岸花。
-        
-      
-    
-    </summary>
-    
-      <category term="记录" scheme="https://awanogawa.github.io/categories/%E8%AE%B0%E5%BD%95/"/>
-    
-    
-      <category term="地狱少女" scheme="https://awanogawa.github.io/tags/%E5%9C%B0%E7%8B%B1%E5%B0%91%E5%A5%B3/"/>
-    
-      <category term="阎魔爱" scheme="https://awanogawa.github.io/tags/%E9%98%8E%E9%AD%94%E7%88%B1/"/>
-    
-      <category term="随笔" scheme="https://awanogawa.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
