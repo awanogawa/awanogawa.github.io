@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://awanogawa.github.io/"/>
-  <updated>2020-09-21T15:04:11.773Z</updated>
+  <updated>2020-10-10T15:58:03.777Z</updated>
   <id>https://awanogawa.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://awanogawa.github.io/2020/09/01/cs231n-bi-ji/"/>
-    <id>https://awanogawa.github.io/2020/09/01/cs231n-bi-ji/</id>
-    <published>2020-09-01T15:35:06.417Z</published>
-    <updated>2020-09-21T15:04:11.773Z</updated>
+    <title>《narcissu》Chapter  4 翡翠色的大海</title>
+    <link href="https://awanogawa.github.io/2020/10/10/narcissu-chapter-4-fei-cui-se-de-da-hai/"/>
+    <id>https://awanogawa.github.io/2020/10/10/narcissu-chapter-4-fei-cui-se-de-da-hai/</id>
+    <published>2020-10-09T16:00:00.000Z</published>
+    <updated>2020-10-10T15:58:03.777Z</updated>
     
     <summary type="html">
     
@@ -29,17 +29,54 @@
       
         
         
-          &lt;p&gt;整理在学习cs231n课程中做的笔记以及一些看到的资料。&lt;/p&gt;
-&lt;h3 id=&quot;Lecture2&quot;&gt;&lt;a href=&quot;#Lecture2&quot; class=&quot;headerlink&quot; title=&quot;Lecture2&quot;&gt;&lt;/a&gt;Lecture2&lt;/h3&gt;&lt;p&gt;&lt;img
+          &lt;h2 id=&quot;Chapter-4-翡翠色的大海&quot;&gt;&lt;a href=&quot;#Chapter-4-翡翠色的大海&quot; class=&quot;headerlink&quot; title=&quot;Chapter 4　翡翠色的大海&quot;&gt;&lt;/a&gt;Chapter
         
       
     
     </summary>
     
-      <category term="笔记" scheme="https://awanogawa.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+      <category term="随笔" scheme="https://awanogawa.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="cv" scheme="https://awanogawa.github.io/tags/cv/"/>
+      <category term="narcissu" scheme="https://awanogawa.github.io/tags/narcissu/"/>
+    
+      <category term="原文本" scheme="https://awanogawa.github.io/tags/%E5%8E%9F%E6%96%87%E6%9C%AC/"/>
+    
+      <category term="感想" scheme="https://awanogawa.github.io/tags/%E6%84%9F%E6%83%B3/"/>
+    
+      <category term="AVG" scheme="https://awanogawa.github.io/tags/AVG/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《narcissu》Chapter 3 地图</title>
+    <link href="https://awanogawa.github.io/2020/08/13/narcissu-chapter-3-di-tu/"/>
+    <id>https://awanogawa.github.io/2020/08/13/narcissu-chapter-3-di-tu/</id>
+    <published>2020-08-12T16:00:00.000Z</published>
+    <updated>2020-10-10T15:49:42.426Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Chapter-3-地图&quot;&gt;&lt;a href=&quot;#Chapter-3-地图&quot; class=&quot;headerlink&quot; title=&quot;Chapter 3　地图&quot;&gt;&lt;/a&gt;Chapter
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://awanogawa.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="narcissu" scheme="https://awanogawa.github.io/tags/narcissu/"/>
+    
+      <category term="原文本" scheme="https://awanogawa.github.io/tags/%E5%8E%9F%E6%96%87%E6%9C%AC/"/>
+    
+      <category term="感想" scheme="https://awanogawa.github.io/tags/%E6%84%9F%E6%83%B3/"/>
+    
+      <category term="AVG" scheme="https://awanogawa.github.io/tags/AVG/"/>
     
   </entry>
   
@@ -47,8 +84,8 @@
     <title>一个人</title>
     <link href="https://awanogawa.github.io/2020/07/16/yi-ge-ren/"/>
     <id>https://awanogawa.github.io/2020/07/16/yi-ge-ren/</id>
-    <published>2020-07-16T13:58:24.822Z</published>
-    <updated>2020-07-17T05:53:58.421Z</updated>
+    <published>2020-07-15T16:00:00.000Z</published>
+    <updated>2020-10-10T15:48:26.454Z</updated>
     
     <summary type="html">
     
@@ -163,7 +200,7 @@
     <link href="https://awanogawa.github.io/2020/05/12/yi-chang-meng/"/>
     <id>https://awanogawa.github.io/2020/05/12/yi-chang-meng/</id>
     <published>2020-05-12T04:13:00.000Z</published>
-    <updated>2020-06-22T10:31:15.997Z</updated>
+    <updated>2020-10-10T15:15:12.535Z</updated>
     
     <summary type="html">
     
@@ -173,10 +210,7 @@
         
           &lt;p&gt;这只是一个梦中的故事。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;一个寂静的夜晚，尽管周边略显嘈杂，但我俩这里相当安静。&lt;/p&gt;
-&lt;p&gt;我俩就像那些随处可见的普通人一样，不被他人所在意。&lt;/p&gt;
-&lt;p&gt;我们微微低着头，不在意周边的景色，迈着比平时稍快一点的脚步往目的地前行。&lt;/p&gt;
-&lt;p&gt;意识到的时候我俩已经就座了，至于在我面前表
+&lt;h3 id=&quot;初始？版本&quot;&gt;&lt;a href=&quot;#初始？版本&quot; class=&quot;headerlink&quot;
         
       
     
@@ -186,38 +220,6 @@
     
     
       <category term="梦" scheme="https://awanogawa.github.io/tags/%E6%A2%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>《narcissu》Chapter 3 地图</title>
-    <link href="https://awanogawa.github.io/2020/05/08/narcissu-chapter-3-di-tu/"/>
-    <id>https://awanogawa.github.io/2020/05/08/narcissu-chapter-3-di-tu/</id>
-    <published>2020-05-08T12:13:32.213Z</published>
-    <updated>2020-08-14T07:54:57.740Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;Chapter-3-地图&quot;&gt;&lt;a href=&quot;#Chapter-3-地图&quot; class=&quot;headerlink&quot; title=&quot;Chapter 3　地图&quot;&gt;&lt;/a&gt;Chapter
-        
-      
-    
-    </summary>
-    
-      <category term="随笔" scheme="https://awanogawa.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="narcissu" scheme="https://awanogawa.github.io/tags/narcissu/"/>
-    
-      <category term="原文本" scheme="https://awanogawa.github.io/tags/%E5%8E%9F%E6%96%87%E6%9C%AC/"/>
-    
-      <category term="感想" scheme="https://awanogawa.github.io/tags/%E6%84%9F%E6%83%B3/"/>
-    
-      <category term="AVG" scheme="https://awanogawa.github.io/tags/AVG/"/>
     
   </entry>
   
